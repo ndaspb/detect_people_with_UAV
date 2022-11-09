@@ -1,0 +1,5 @@
+path: /content/drive/MyDrive/omsk/data
+train: /content/drive/MyDrive/omsk/data/images/train
+val: /content/drive/MyDrive/omsk/data/images/valid
+nc: 1
+names: ['Human']
