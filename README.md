@@ -5,6 +5,5 @@ Detection of human silhouettes in images of a forest area obtained using a UAV
 
 
 
-![337](https://user-images.githubusercontent.com/90277778/205122233-54e0d7e7-b5f0-42f0-89e7-de2442727bf8.jpg)
-![791](https://user-images.githubusercontent.com/90277778/205122337-fd59f075-7cb6-4ed4-adce-bc5180c8ea14.JPG)
-![6](https://user-images.githubusercontent.com/90277778/205122361-fc89a8b1-5a92-441c-83f3-c5e543193482.JPG)
+![37](https://user-images.githubusercontent.com/90277778/205122595-d400ebc6-00dc-4722-8868-0f3bf772fcc3.JPG)
+![791](https://user-images.githubusercontent.com/90277778/205122656-8f92a75a-3e27-4987-b6cc-99cfd5a378d3.JPG)
